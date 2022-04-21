@@ -1,1 +1,3 @@
-Hi, This is my first taining session on git devops
+Hi, this is my first taining session on git devops
+
+Adding new line
