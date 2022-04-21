@@ -1,0 +1,1 @@
+Hi, This is my first taining session on git devops
